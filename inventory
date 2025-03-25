@@ -1,0 +1,8 @@
+[db]
+db.swetha.store
+
+[backend]
+backend.swetha.store
+
+[frontend]
+frontend.swetha.store
